@@ -1,4 +1,4 @@
-{
+
   "name":"𝘾𝙃𝘼𝙍𝙇𝙀𝙎𝙆𝙀 𝙓𝙈𝘿",
   "description":"Best whatsapp bot💥 developed by Charles ke🇰🇪",
   "keywords":["bot","node","baileys","whatsapp"],
@@ -57,7 +57,7 @@
     ,
     "BOT_NAME" : {
        
-      "description":"put A name for your bot",
+      "description":"Cally stars",
       "value":"𝘾𝙃𝘼𝙍𝙇𝙀𝙎𝙆𝙀 𝙓𝙈𝘿",
       "required":false
 
@@ -87,7 +87,7 @@
 	  ,
     "SESSION_ID":
     {
-      "description":"put your session ID , the code you receive after scanning Qr code",   
+      "description":"eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiNkVweEE4cHVsWGt2R0NCOTc0WWplSHQzSW9pbGFka1NRK3kzdno3U2FVUT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiaHYrWC84b0pDM0Z2aVRMNHhjaUN1NEhlTkM5bnJsUlNOdGlQdXZFS2lrcz0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJpRStsenUrNUJDakhWaUJwMDErKzdKUGUxRys3Y0YrUWtTM3RwTm4zTEhzPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJyaUQva2dRQTVkY3RsY3hia3d2MlN6bDEyMGgwZ0FkaHZqTFVOUUtaOVdrPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IitKRWgzQjhVSFdpc0dlS1BQNmhxb2lIK1ZZbFMrbmFPT1lGa0tVeXFaMjA9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IndLRGtZZEdNaFJKekxoTWJEeG1RSHRTOCtZMCtJR1hNbEhzRDFwWlNFWHc9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoidUFxNmg4L2xRaGJOUDhPSC9mMFlyRzg2YmJhVFRyOVBGUThqdlMzdVpFND0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiSW9xQ3RNcnY3OVZDcDJKeGI0UVNmVUxRc21IVXZrWHN0dUdscitFK2N6TT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjI3cGhVOEx3WXA4T0VGV29VWnpkSjVIMFd3QTRiaG9VTXM1T3o4UVdoQlJvcnlYTFpXMDZmMkZNRnV3Ky9vQlhITVJ2Uk5qSzZLR1FtcnRZZ1JZM0RRPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6NzgsImFkdlNlY3JldEtleSI6Ik5samRpQmJ3RUFJaWFnUGVSTlYzM0lvWEs5WWV1enhzekt5VG05Z2R4RHc9IiwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzIjpbeyJrZXkiOnsicmVtb3RlSmlkIjoiMjU0NzU3NTY5OTA2QHMud2hhdHNhcHAubmV0IiwiZnJvbU1lIjp0cnVlLCJpZCI6IkRFMkQwNDQ1QTZFMTY3ODQ5REY3QkY2MUFBMDE3OEFFIn0sIm1lc3NhZ2VUaW1lc3RhbXAiOjE3NTA2NzA2MTF9LHsia2V5Ijp7InJlbW90ZUppZCI6IjI1NDc1NzU2OTkwNkBzLndoYXRzYXBwLm5ldCIsImZyb21NZSI6dHJ1ZSwiaWQiOiIxNDJFRkJCQ0M2NkJCNTYxMDQxODA4MTE0N0Y4OURERSJ9LCJtZXNzYWdlVGltZXN0YW1wIjoxNzUwNjcwNjMwfV0sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjoxLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwicmVnaXN0ZXJlZCI6dHJ1ZSwicGFpcmluZ0NvZGUiOiIxMjNMT1RVUyIsIm1lIjp7ImlkIjoiMjU0NzU3NTY5OTA2OjFAcy53aGF0c2FwcC5uZXQiLCJuYW1lIjoiRG9nbyBUYW11IENsYXNzaWMiLCJsaWQiOiI4OTA4MDgwOTY3NzcwOjFAbGlkIn0sImFjY291bnQiOnsiZGV0YWlscyI6IkNNdWRsdGdIRVBtNTVNSUdHQUVnQUNnQSIsImFjY291bnRTaWduYXR1cmVLZXkiOiJENjlRTk9peVgwVFBPMzdUSTVnejVRNUhzSDh3MWVWQWQ4aUY5cWg4WVQ4PSIsImFjY291bnRTaWduYXR1cmUiOiJJcmZtZkM1VHVEcmV3WVdhZk54VlJoRURkeEsyK3FWZkw0UUs0WDBmajFMRVRjRmlLcjhtNzJsaUVHbktoSUMvTFhlN1g3cVYyM0UzemVLZFUweHBBQT09IiwiZGV2aWNlU2lnbmF0dXJlIjoiRGxaVDd6Ny9IWDk0UlZqK2pDdFlWVWRhNzZHQ3l1WXJPUnlXNVpHbHRIN1htS2ZZMjd6YlZXM1Y4QVMzbzNpbnhMYmFDaEJ3M2lwWGR3ZEszTGtxQVE9PSJ9LCJzaWduYWxJZGVudGl0aWVzIjpbeyJpZGVudGlmaWVyIjp7Im5hbWUiOiIyNTQ3NTc1Njk5MDY6MUBzLndoYXRzYXBwLm5ldCIsImRldmljZUlkIjowfSwiaWRlbnRpZmllcktleSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkJRK3ZVRFRvc2w5RXp6dCsweU9ZTStVT1I3Qi9NTlhsUUhmSWhmYW9mR0UvIn19XSwicGxhdGZvcm0iOiJzbWJhIiwicm91dGluZ0luZm8iOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJDQVVRQXhBQSJ9LCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXAiOjE3NTA2NzA1OTksImxhc3RQcm9wSGFzaCI6IjJWNzdxVSIsIm15QXBwU3RhdGVLZXlJZCI6IkFBQUFBS2NPIn0=",   
       "value":"",
       "required":true
       
@@ -95,14 +95,14 @@
     "OWNER_NAME":
     {
     
-    "desc": "Your Name",
+    "desc": "kijana ya caro",
     "required": false,
     "value": "©charles"
   },
     "NUMERO_OWNER":
   {
     
-    "desc": "Your number , dont put '+' and put you area code(exemple of kenya '254')",
+    "desc": "254757569906",
     "required":true,
     "value": ""
   },
@@ -120,7 +120,7 @@
   },
   "PRESENCE":{
     "description":"Mark your presence: 1 online. 2 typing a message. 3 recording . Or leave the field blank to indicate your real state.",
-    "value":"",
+    "value":"recording",
     "required": false
   },
   "ANTI_DELETE_MESSAGE" : {
